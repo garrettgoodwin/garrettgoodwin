@@ -30,7 +30,7 @@ C#, C/C++, Java, HTML/CSS
 GitHub, Blender, Photoshop/Illustrator
 Trello, Audacity
 Portfolio
-You can check out my [portfolio website](insert link to your website here) for more information about my work and skills as a game developer.
+You can check out my [portfolio website](https://www.garrettgoodwingames.com/) for more information about my work and skills as a game developer.
 
 Contact
-If you have any inquiries or opportunities, feel free to contact me at [insert your email or other contact information here].
+If you have any inquiries or opportunities, feel free to contact me at [garrett.w.goodwin@gmail.com].
