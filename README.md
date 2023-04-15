@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 # Why Hello There 👋
 
-Welcome to my GitHub overview! My name is Garrett Goodwin, and I am a passionate game developer with a strong background in Unity game development.
+Welcome to my GitHub! My name is Garrett Goodwin, and I am a passionate game developer with a strong background in Unity game development.
 
-## Projects
+## Personal Projects
 ### Here are some of the game projects I've worked on:
 
-3D multiplayer first-person shooter with Unity and Photon Unity Networking
-Top-down 2D wave shooter with an AI system and upgradeable weapons
-Two game jam projects: Punch Back and Swingy Spider
+Upturn: 3D multiplayer first-person shooter with Unity and Photon Unity Networking
+Light in the Dark: Top-down 2D wave shooter with an AI system and upgradeable weapons
+Game Jam Participation: Punch Back and Swingy Spider
 I hope you enjoy playing these games as much as I enjoyed making them. Your support means a lot to me!
 
 ## Skills
