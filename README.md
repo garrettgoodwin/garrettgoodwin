@@ -27,14 +27,14 @@ I hope you enjoy playing these games as much as I enjoyed making them. Your supp
 ## Skills 💻
 **Aside from my Unity game development skills, I am also experienced in:**
 
-Unity game development  
-3D modeling and animation using Blender  
-Proficient in C#, C/C++, Java, HTML, and CSS programming languages  
-Experience with version control using Git and GitHub  
-UI/UX design using Photoshop/Illustrator  
-Audio editing using Audacity  
-Familiarity with HTML and CSS for web development  
-Familiarity with project management tools such as Trello
+* Unity game development  
+* 3D modeling and animation using Blender  
+* Proficient in C#, C/C++, Java, HTML, and CSS programming languages  
+* Experience with version control using Git and GitHub  
+* UI/UX design using Photoshop/Illustrator  
+* Audio editing using Audacity  
+* Familiarity with HTML and CSS for web development  
+* Familiarity with project management tools such as Trello
 
 ## Portfolio 📂
 Check out my portfolio page to see more of my work!
