@@ -19,9 +19,9 @@ Welcome to my GitHub! My name is Garrett Goodwin, and I am a passionate game dev
 ## Personal Projects 🎮
 ### Here are some of the game projects I've worked on:
 
-Upturn: 3D multiplayer first-person shooter with Unity and Photon Unity Networking
-Light in the Dark: Top-down 2D wave shooter with an AI system and upgradeable weapons
-Game Jam Participation: Punch Back and Swingy Spider
+Upturn: 3D multiplayer first-person shooter with Unity and Photon Unity Networking  
+Light in the Dark: Top-down 2D wave shooter with an AI system and upgradeable weapons  
+Game Jam Participation: Punch Back and Swingy Spider  
 I hope you enjoy playing these games as much as I enjoyed making them. Your support means a lot to me!
 
 ## Skills 💻
