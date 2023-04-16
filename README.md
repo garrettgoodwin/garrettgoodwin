@@ -35,4 +35,4 @@ Trello, Audacity
 Check out my portfolio page to see more of my work!
 
 ## Contact 📧
-If you have any inquiries or opportunities, please feel free to contact me at [insert your email or other contact information here]. Thanks for stopping by
+If you have any inquiries or opportunities, please feel free to contact me at [garrett.w.goodwin@gmail.com]. Thanks for stopping by
